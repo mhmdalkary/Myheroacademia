@@ -18,10 +18,10 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "mhmdalkar18@gmail.com",
-    "password": "5432112345",
+    "email": "",
+    "password": "",
     "2FASecret": "",
-    "i_user": "100090138577417",
+    "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
